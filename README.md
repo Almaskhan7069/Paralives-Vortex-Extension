@@ -81,15 +81,7 @@ The installer will guide you through the remaining steps.
 
 ### Main Interface
 
-![Main Interface](docs/images/main-interface.png)
-
-### Installation Process
-
-![Installation](docs/images/installation.png)
-
-### Extension Setup
-
-![Setup](docs/images/setup.png)
+![Main Interface](main-interface.png)
 
 ---
 
