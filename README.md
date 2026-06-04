@@ -1,6 +1,6 @@
 # Paralives-Vortex-Extension
 Official Vortex Extension for Paralives. Easy mod installation, deployment, updates, and management
-
+![](./banner.png)
 <div align="center">
 
 # 🚀 Paralives Vortex Extension
